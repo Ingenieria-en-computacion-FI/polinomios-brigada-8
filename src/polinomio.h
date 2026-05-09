@@ -35,4 +35,5 @@ Polinomio* multiplicarPolinomios(Polinomio* p1,Polinomio* p2);
 char* polinomioToString(Polinomio* p);
 void destruirPolinomio(Polinomio* p);
 
+
 #endif
