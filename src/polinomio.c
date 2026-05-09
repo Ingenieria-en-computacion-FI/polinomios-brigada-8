@@ -247,3 +247,4 @@ void destruirPolinomio(Polinomio* p){
     }
     free(p);
 }
+
